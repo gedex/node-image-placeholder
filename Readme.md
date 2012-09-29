@@ -15,7 +15,7 @@ Image placeholder can be requested with following ways
 ## Running locally
 
 Before install dependencies, make sure you have [Cairo](http://www.cairographics.org/) installed.
-[Node-canvas](http://www.cairographics.org/) depends on Cairo. Install dependencies:
+[Node-canvas](https://github.com/LearnBoost/node-canvas/) depends on Cairo. Install dependencies:
 ````bash
 npm install
 ````
