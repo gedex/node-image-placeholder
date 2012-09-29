@@ -86,7 +86,7 @@ app.get('/:dimension.:format?/:fg_color?/:bg_color?', function(req, res, next) {
     res.setHeader("Content-Type", 'image/' + ext);
     res.setHeader("Cache-Control", "public, max-age=" + max_age);
     res.setHeader("Expires", exp);
-    res.setHeader("Last-Modified", new Date());
+    res.setHeader("Last-Modified", exp);
 
     canvas = new Canvas(w, h);
     ctx = canvas.getContext('2d');
