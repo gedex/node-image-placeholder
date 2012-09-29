@@ -1,19 +1,23 @@
 {
-    "name": "image-placeholder",
-    "description": "A web app for image placeholder",
-    "version": "0.0.1",
-    "author": "Akeda Bagus <admin@gedex.web.id>",
-    "repository": "git://github.com/gedex./node-image-placeholder.git",
-    "maintainers": "Akeda Bagus <admin@gedex.web.id>",
-    "engines": {
-        "node": ">=0.6.0"
-    },
-    "license": "MIT",
-    "dependencies": {
-        "canvas": "0.13.x",
-        "express": "3.0.x",
-        "connect": "2.4.x",
-        "jade": "0.27.x"
-    },
-    "devDependencies": {}
+  "name": "image-placeholder",
+  "description": "A web app for image placeholder",
+  "version": "0.0.1",
+  "author": "Akeda Bagus <admin@gedex.web.id>",
+  "repository": "git://github.com/gedex/node-image-placeholder.git",
+  "maintainers": "Akeda Bagus <admin@gedex.web.id>",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "0.13.x",
+    "express": "3.0.x",
+    "connect": "2.4.x",
+    "jade": "0.27.x"
+  },
+  "devDependencies": {},
+  "subdomain": "image-placeholder",
+  "scripts": {
+    "start": "app.js"
+  }
 }
