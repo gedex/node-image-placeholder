@@ -19,7 +19,7 @@ Image placeholder can be requested with following ways
 
 ## Demo Instances
 
-* [http://http://image-placeholder.jit.su/](http://image-placeholder.jit.su/)
+* [http://image-placeholder.jit.su/](http://image-placeholder.jit.su/)
 * Later on heroku
 
 
