@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "canvas": "*",
+    "canvas": "0.13.x",
     "express": "3.0.x",
     "connect": "2.4.x",
     "jade": "0.27.x"
