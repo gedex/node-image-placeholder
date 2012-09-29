@@ -7,10 +7,15 @@ Image placeholder can be requested with following ways
 
 * A 300x300 image:
   `<img src="http://example.com/300">`
+
+  ![]((https://github.com/gedex/node-image-placeholder/raw/master/screenshots/300x300.png))
+
   or
   `<img src="http://example.com/300x300">`
 * A 400x320 image with text color #fff and background color #ff0000:
   `<img src="http://example.com/400x320/fff/ff0000">`
+  
+  ![]((https://github.com/gedex/node-image-placeholder/raw/master/screenshots/400x320-fff-ff0000.png))
 
 ## Running locally
 
