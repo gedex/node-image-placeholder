@@ -20,7 +20,8 @@ Image placeholder can be requested with following ways
 ## Demo Instances
 
 * [http://image-placeholder.jit.su/](http://image-placeholder.jit.su/)
-* Later on heroku
+* I couldn't get the app run on heroku. Seems the canvas workaround doesn't give me a luck.
+  Let me know if you can get the app running on heroku.
 
 
 ## Running locally
