@@ -3,7 +3,7 @@ Image-Placeholder
 
 A ready web app to serve images for your image placeholder.
 Image placeholder can be requested with following ways
-(assuming the app deployed to example.com):
+(assuming app is deployed to example.com):
 
 * A 300x300 image:
   `<img src="http://example.com/300">`
