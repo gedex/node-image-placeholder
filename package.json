@@ -1,7 +1,7 @@
 {
   "name": "image-placeholder",
   "description": "A web app for image placeholder",
-  "version": "0.0.1-11",
+  "version": "0.0.1-14",
   "author": "Akeda Bagus <admin@gedex.web.id>",
   "repository": "git://github.com/gedex/node-image-placeholder.git",
   "maintainers": "Akeda Bagus <admin@gedex.web.id>",
