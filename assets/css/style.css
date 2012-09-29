@@ -33,6 +33,9 @@ body{
     background-color:#282828;
     background-size:16px 16px;
 }
+a {
+    color: #0D93FF;
+}
 h1 {
     font-size: 32px;
     color: rgba(255,255,255,1);
