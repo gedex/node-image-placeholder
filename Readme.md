@@ -17,6 +17,12 @@ Image placeholder can be requested with following ways
   
   ![](https://github.com/gedex/node-image-placeholder/raw/master/screenshots/400x320-fff-ff0000.png)
 
+## Demo Instances
+
+* [http://http://image-placeholder.jit.su/](http://image-placeholder.jit.su/)
+* Later on heroku
+
+
 ## Running locally
 
 Before install dependencies, make sure you have [Cairo](http://www.cairographics.org/) installed.
@@ -33,6 +39,17 @@ node app.js
 ## Deploy to heroku
 
 Later on this.
+
+## Deploy to [nodejitsu](http://nodejitsu.com/)
+
+This app is ready to deploy to nodejitsu. Make sure you change `subdomain` key
+in `package.json`, or it will prompt you that the domain already exist. Make
+sure you have nodejitsu account and [jitsu CLI](http://github.com/nodejitsu/jitsu) installed.
+To deploy go to your cloned-image-placeholder repo and run:
+
+````bash
+jitsu deploy
+````
 
 ## License - "MIT License"
 
