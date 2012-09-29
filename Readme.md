@@ -6,17 +6,11 @@ Image placeholder can be requested with following ways
 (assuming the app deployed to example.com):
 
 * A 300x300 image:
-```html
-<img src="http://example.com/300">
-```
+  `<img src="http://example.com/300">`
   or
-```html
-<img src="http://example.com/300x300">;
-```
+  `<img src="http://example.com/300x300">`
 * A 400x320 image with text color #fff and background color #ff0000:
-```html
-<img src="http://example.com/400x320/fff/ff0000">
-```
+  `<img src="http://example.com/400x320/fff/ff0000">`
 
 ## Running locally
 
@@ -37,7 +31,7 @@ Later on this.
 
 ## License - "MIT License"
 
-Copyright (c) 2012 Akeda Bagus <admin@gedex.web.id>
+Copyright (c) 2012 Akeda Bagus &lt;admin@gedex.web.id&gt;
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
